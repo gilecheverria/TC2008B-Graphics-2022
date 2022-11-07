@@ -1,0 +1,11 @@
+# Simple mesh of a cube
+
+v -1 0 -1
+v 1 0 -1
+v 0 0 2
+v 0 3 0
+
+f 1 2 3
+f 1 4 2
+f 2 4 3
+f 3 4 1
